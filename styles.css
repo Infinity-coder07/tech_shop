@@ -539,7 +539,7 @@ input[type="radio"] {
     /* box-shadow: -6px -5px 18px rgba(255, 255, 255, 0.1); */
     cursor: pointer;
     /* width: 50%; */
-    transform: translateX(-7px);
+    transform: translateX(-3px) translateY(6px);
 }
 
 .c-button .c-main {
@@ -916,3 +916,4 @@ input[type="checkbox"]:checked~ .more-info{
 .more-info ul li span{
     font-weight: lighter;
 }
+
